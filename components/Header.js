@@ -60,7 +60,7 @@ class Header extends HTMLElement{
                         </div>
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li class="current dropdown"><a href="/">Home</a>
+                                <li class="current dropdown"><a href="./">Home</a>
                                 </li>
                                 <li class="dropdown"><a href="./about.html">About</a></li>
                                 <li class="dropdown"><a href="./services.html">Services</a>
@@ -115,7 +115,7 @@ class Header extends HTMLElement{
     <div class="sticky-header">
         <div class="auto-container clearfix">
             <div class="logo pull-left">
-                <a href="./index.html" class="img-responsive"><img src="./images/logo-small.png" alt=""
+                <a href="./" class="img-responsive"><img src="./images/logo-small.png" alt=""
                         title=""></a>
             </div>
             <div class="right-col pull-right">
@@ -130,7 +130,7 @@ class Header extends HTMLElement{
                     </div>
                     <div class="navbar-collapse collapse clearfix">
                         <ul class="navigation clearfix">
-                            <li class="current dropdown"><a href="/">Home</a>
+                            <li class="current dropdown"><a href="./">Home</a>
                               
                             </li>
                             <li class="dropdown"><a href="./about.html">About</a>
