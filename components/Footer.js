@@ -32,11 +32,12 @@ class Footer extends HTMLElement{
                                     <div class="footer-widget links-widget">
                                         <h2>Web Links</h2>
                                         <ul class="links">
-                                            <li><a href="index.html">Home Page</a></li>
-                                            <li><a href="about.html">About us</a></li>
-                                            <li><a href="services.html">Our Services</a></li>
-                                            <li><a href="blog.html">Our News</a></li>
-                                            <li><a href="contact.html">Contact Us</a></li>
+                                            <li><a href="./index.html">Home Page</a></li>
+                                            <li><a href="./about.html">About us</a></li>
+                                            <li><a href="./services.html">Our Services</a></li>
+                                            <li><a href="./contact.html">Contact Us</a></li>
+                                            <li><a href="./privacy-policy.html">Privacy Policy</a></li>
+                                            <li><a href="./terms-of-service.html">Terms Of Service</a></li>
                                         </ul>
                                     </div>
                                 </div>
