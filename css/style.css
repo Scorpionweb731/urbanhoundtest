@@ -10348,6 +10348,7 @@ ul, p {
     top: 0px;
     left: 0px;
     background: url("../images/home_5/pattern-11(2).png");
+    /* background: grey; */
     background-repeat: no-repeat;
     background-position: -200px 0px;
     background-size: contain;
